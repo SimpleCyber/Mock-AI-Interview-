@@ -20,3 +20,8 @@
         Routes are setup for now => 
         - (auth)
         - (root)
+  
+# Background setup 
+        npm install tailwindcss-animate
+        npx shadcn@latest add button form input sonner
+        
