@@ -108,7 +108,7 @@ export const interviewer: CreateAssistantDTO = {
   },
   voice: {
     provider: "vapi",
-    voiceId: "Neha",
+    voiceId: "Paige",
   },
   model: {
     provider: "openai",
