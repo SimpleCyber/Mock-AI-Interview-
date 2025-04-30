@@ -25,3 +25,7 @@
         npm install tailwindcss-animate
         npx shadcn@latest add button form input sonner
         
+
+
+npm install ai @ai-sdk/google
+npm install @vapi-ai/web 
