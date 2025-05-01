@@ -1,4 +1,4 @@
-import { AuthForm } from '@/components/AuthForm'
+import AuthForm from '@/components/AuthForm'
 import React from 'react'
 
 const page = () => {
@@ -6,3 +6,5 @@ const page = () => {
 }
 
 export default page
+
+
